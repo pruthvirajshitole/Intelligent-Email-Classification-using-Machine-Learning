@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
+### 🔗 Live Demo
+This application is deployed on Streamlit Cloud: [Spam Email Classifier on Streamlit.io](https://spam-email-classification-using-ml.streamlit.app/)
+
 ## 🎯 Project Overview
 
 This project implements a machine learning model to classify emails as spam or non-spam (ham). Using advanced natural language processing techniques and machine learning algorithms, the system provides accurate email classification to help users filter unwanted messages.
@@ -50,10 +53,6 @@ The project uses a comprehensive email dataset containing both spam and non-spam
    ```
 
 ## 💻 Usage
-
-### 🔗 Live Demo
-This application is deployed on Streamlit Cloud: [Spam Email Classifier on Streamlit.io](https://spam-email-classification-using-ml.streamlit.app/)
-
 
 1. Run the Streamlit application:
    ```bash
