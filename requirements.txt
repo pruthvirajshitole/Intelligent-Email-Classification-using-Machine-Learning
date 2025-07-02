@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+nltk>=3.8.1
+pickle-mixin
+python-dotenv
+numpy
+pandas
